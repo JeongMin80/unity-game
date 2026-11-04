@@ -1,0 +1,49 @@
+# Unity-generated caches, local settings, and build output.
+# Based on https://github.com/github/gitignore/blob/main/Unity.gitignore
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emory[Cc]aptures/
+/[Rr]ecordings/
+.utmp/
+*.log
+/Assets/Nine Pines Animation/
+
+# IDE-generated files. Keep game scripts and Unity .meta files.
+.vs/
+.idea/
+.gradle/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DotSettings.user
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Crash reports and generated build debugging data.
+sysinfo.txt
+mono_crash.*
+/*_BackUpThisFolder_ButDontShipItWithYourGame/
+/*_BurstDebugInformation_DoNotShip/
+
+# OS-generated files.
+.DS_Store
+Thumbs.db
+Desktop.ini
